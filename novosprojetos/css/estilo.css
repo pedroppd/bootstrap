@@ -1,0 +1,21 @@
+ ul li{
+	display: inline;
+	list-style-type: none;
+	padding-left: 8%;
+	padding-right: 8%;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 140%;
+}
+ ul li a{
+ font-family: "Times New Roman", Times, serif;
+ font-size: 100%;
+ text-decoration: none;
+ color:#ffffff;   
+}
+ ul li a:hover{
+    background-color: #F2FBEF;
+	color: #000000;
+	font-family: "Times New Roman", Times, serif;
+    font-size: 100%;
+    text-decoration: none;
+}
